@@ -49636,7 +49636,7 @@ A.ac_.prototype={
 $0(){A.ji("https://github.com/wilver06w")},
 $S:0}
 A.L3.prototype={
-M(a){var s=null,r=t.l,q=A.d1(a,s,r).w.a,p=t.E,o=A.j4(A.a([new A.ud(new A.a6R(),"Wilver Rojas Del Ducca",!1,s),B.xO,A.fb(B.k,s,s,"Mobile Developer",s,s,s),B.xO,A.eL(A.a([A.aBb("assets/svg/world.svg",s,16,16),B.Pg,A.fb(B.k,s,s,"Colombia",s,s,s)],p),B.R,B.b_,B.V),B.lW,A.eL(A.a([new A.ns(new A.a6S(),"assets/svg/email.svg",s),B.ev,new A.ns(new A.a6T(),"assets/svg/linkdln.svg",s),B.ev,new A.ns(new A.a6U(),"assets/svg/github.svg",s),B.ev,new A.ns(new A.a6V(),"assets/svg/x.svg",s)],p),B.R,B.b_,B.V)],p),B.bf),n=q.b>1400?200:120,m=A.d1(a,s,r).w,l=q.a>1400?30:60
+M(a){var s=null,r=t.l,q=A.d1(a,s,r).w.a,p=t.E,o=A.j4(A.a([new A.ud(new A.a6R(),"Wilver Rojas Del Ducca",!1,s),B.xO,A.fb(B.k,s,s,"Mobile Developer",s,s,s),B.xO,A.eL(A.a([A.aBb("assets/svg/world.svg",s,16,16),B.Pg,A.fb(B.k,s,s,"Colombia",s,s,s)],p),B.R,B.b_,B.V),B.lW,A.eL(A.a([new A.ns(new A.a6S(),"assets/svg/email.svg",s),B.ev,new A.ns(new A.a6T(),"assets/svg/linkdln.svg",s),B.ev,new A.ns(new A.a6U(),"assets/svg/github.svg",s),B.ev,new A.ns(new A.a6V(),"assets/svg/x.svg",s)],p),B.R,B.b_,B.V)],p),B.bf),n=q.b>1400?200:120,m=A.d1(a,s,r).w,l=q.a>1300?30:60
 r=A.d1(a,s,r).w
 return A.eL(A.a([o,A.qR(new A.IV(A.xY(10),A.a7S("assets/images/me.jpg",B.zL,1/0,1/0),s),m.a.b*(n*100/760)/100,r.a.a*(l*100/360)/100)],p),B.R,B.bF,B.V)}}
 A.a6R.prototype={
@@ -49698,7 +49698,7 @@ A.uO.prototype={
 M(a){var s,r,q,p=null,o=A.d1(a,p,t.l).w.a,n=o.b
 n=n>1400?n*0.2:n*0.1
 s=o.a
-s=s>1400?s*0.32:s*0.07
+s=s>1300?s*0.28:s*0.07
 r=t.C
 q=t.v7
 return A.aeS(p,A.a1b(A.a9d(A.a([B.FV,B.lY,A.wd(p,20,B.S,"Sobre m\xed",p),B.ev,A.aBI(B.w,"Es un placer saludarte. Ingeniero de Sistemas con fuertes habilidades de desarrollo m\xf3vil en Android 3 y Flutter 3 a\xf1os. Me apasiona el aprendizaje continuo, el trabajo en equipo y el mundo m\xf3vil en general. La tecnolog\xeda y las causas sociales tambi\xe9n tienen un gran inter\xe9s para m\xed. Soy una persona responsable, creativa, persistente, curiosa, paciente y organizada que disfruta compartir conocimientos con los dem\xe1s. Estoy altamente motivado para trabajar como desarrollador de equipos, contribuir a proyectos y ampliar continuamente mis habilidades y desarrollo profesional.\n\nEspec\xedficamente, estoy profundamente interesado en realizar proyectos relacionados con el desarrollo m\xf3vil.",B.dV,A.aw0().$0()),B.lY,A.wd(p,20,B.S,"Experiencia Laboral",p),B.aV,A.n1(p,new A.ac1(),r,q),B.lX,A.wd(p,20,B.S,"Educacion",p),B.aV,B.Gv,B.FM,B.Gu,B.lX,A.wd(p,20,B.S,"Habilidades",p),B.aV,A.n1(p,new A.ac2(),r,q),B.aV,A.wd(p,20,B.S,"Proyectos",p),B.aV,A.n1(p,new A.ac3(),r,q)],t.E),new A.bI(s,n,s,n)),new A.ac4(),r),p,p)}}
